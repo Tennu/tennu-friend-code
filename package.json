@@ -1,0 +1,24 @@
+{
+  "name": "tennu-friend-code",
+  "version": "1.0.0",
+  "description": "Friend Code plugin for Tennu IRC Bot",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Tennu/tennu-friend-code.git"
+  },
+  "keywords": [
+    "tennu",
+    "tennu-plugin",
+    "irc"
+  ],
+  "author": "Ryan Scheel (Havvy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tennu/tennu-friend-code/issues"
+  },
+  "homepage": "https://github.com/Tennu/tennu-friend-code"
+}
