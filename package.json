@@ -1,6 +1,6 @@
 {
   "name": "tennu-friend-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Friend Code plugin for Tennu IRC Bot",
   "main": "plugin.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Tennu/tennu-friend-code/issues"
   },
-  "homepage": "https://github.com/Tennu/tennu-friend-code"
+  "homepage": "https://github.com/Tennu/tennu-friend-code",
+  "dependencies": {
+    "dirty": "^0.9.9"
+  }
 }
